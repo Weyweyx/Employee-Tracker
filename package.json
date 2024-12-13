@@ -4,21 +4,21 @@
     "description": "A command-line application to manage a company's employee database using Node.js, Inquirer, and PostgreSQL.",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js"
+        "start": "node index.js"
     },
     "keywords": [
-      "CMS",
-      "employee",
-      "tracker",
-      "database",
-      "PostgreSQL"
+        "CMS",
+        "employee",
+        "tracker",
+        "database",
+        "PostgreSQL"
     ],
     "author": "Wolf",
     "license": "",
     "dependencies": {
-      "console.table": "^0.10.0",
-      "dotenv": "^16.0.3",
-      "inquirer": "^8.2.4",
-      "pg": "^8.11.1"
+        "console.table": "^0.10.0",
+        "dotenv": "^16.0.3",
+        "inquirer": "^8.2.6",
+        "pg": "^8.11.1"
     }
-  }
+}
